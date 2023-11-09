@@ -1,4 +1,6 @@
 ### Hi there 👋
+Стек технологий, которые я использую
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
 **ElenaVereskun/ElenaVereskun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
