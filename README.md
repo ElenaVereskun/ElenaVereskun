@@ -3,6 +3,7 @@
 - 🌱 Училась в Я.Практикуме.
 - 🔭 Активно ищу работу.
 - 💬 lena.vereskun@yandex.ru
+- tg @eleigo
 - ⚡ Стек технологий, которые я использую:
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
