@@ -1,10 +1,11 @@
 ### Привет 👋
 - 😄 Я - Лена, front-end разработчик.
 - 🌱 Училась в Я.Практикуме.
-- 🌱 Фронтенд-разработчик в it GoD.
+- 🌱 Web-разработчик в "Аттракцион Экспо".
 - 💬 lena.vereskun@yandex.ru
 - tg @eleigo
-- Сайт для компнаии Десница  https://desnitsa-test.god-it.ru/ (сайт в разработке). 
+- Мои проекты  https://attra-proekt.ru, https://attra-stroy.ru.
+- Сайт для компании Десница  https://desnitsa-test.god-it.ru/ (сайт в разработке). 
 - Совершенствую свои навыки работы с TypeScript, Next.js, Redux toolkit. Выполняю фриланс-заказы и работаю над своими pet-проектами, вот один из них: https://elenavereskun.github.io/redux-toolkit/
 -   
 - ⚡ Стек технологий, которые я использую:
@@ -19,6 +20,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
